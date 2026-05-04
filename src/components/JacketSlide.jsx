@@ -126,8 +126,8 @@ export default function JacketSlide({ jacket, currentIndex, onChangeIndex }) {
             alt={jacket.name}
             className="relative z-10 select-none"
             style={{
-              width: 340,
-              height: 340,
+              width: 420,
+              height: 420,
               objectFit: "contain",
               filter: "drop-shadow(0 28px 56px rgba(0,0,0,0.32))",
               animation: "float 3.5s ease-in-out infinite, scaleIn 0.45s ease forwards",
