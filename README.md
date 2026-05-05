@@ -2,7 +2,7 @@
 
 Producto visual interactivo inspirado en un diseño de tienda Nike, construido con **React + Vite + Tailwind CSS**.
 
-[![Preview](./public/preview.png)](https://nike-jacket-store.vercel.app)
+[![Preview](./public/preview-1.png)](https://nike-jacket-store.vercel.app)
 
 ---
 
